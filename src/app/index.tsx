@@ -1,4 +1,4 @@
-import { View, Text, ActivityIndicator } from 'react-native';
+import { View,  ActivityIndicator } from 'react-native';
 import React from 'react';
 import Button from '../components/Button';
 import { Link, Redirect } from 'expo-router';
