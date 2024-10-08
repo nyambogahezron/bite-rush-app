@@ -19,3 +19,6 @@ android/
 
 expo-env.d.ts
 # @end expo-cli
+
+.env
+.env.local
